@@ -5,10 +5,6 @@ package com.qcloud.kms;
  * @date 2017-2-20
  */
 public class KeyMetadata {
-    /*
-     *
-     */
-
     public String KeyId;
     public int CreateTime;
     public String Description;
